@@ -1,6 +1,7 @@
 A printf Collaboration Project
 
-collaborators
+    Collaborators
+-----------------------
 
-> Emmanuel Appiah - eldray
-> Ernest Asubonteng -
+- Emmanuel Appiah - eldray
+- Ernest Nketia Asubonteng - NketiaAsubontengErnest
